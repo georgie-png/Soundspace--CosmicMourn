@@ -1,4 +1,4 @@
-# Soundspace
+# Soundspace / Cosmic Mourn
  
  
 ![alt text](https://github.com/georgie-png/Soundspace--CosmicMourn/blob/master/Images/Cosmic%20Mourn.png "Cosmic Mourn Cove Photo")
