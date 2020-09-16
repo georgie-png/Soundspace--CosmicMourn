@@ -1,6 +1,6 @@
 # Soundspace
  
-## These are the basic tools and prefabs I created to produce the AR SoundSpace App/ Cosmic mourn experience.
+### These are the basic tools and prefabs I created to produce the AR SoundSpace App/ Cosmic mourn experience.
 
 Check Out The Game Play Video Here : [VIDEO](https://www.youtube.com/watch?v=bRlox-qyZBc&t=4s)
 
@@ -10,7 +10,7 @@ Or Try It On your Device Here :
  - [Andriod](https://play.google.com/store/apps/details?id=com.Lorn.SoundSpace.Four&hl=en_GB)
 
 
-## To Get It Working In Unity!!!
+### To Get It Working In Unity!!!
 
 All you need to do is create a new unity project, I used Universal render pipeline on version 2019.4.7f1. 
 
@@ -24,7 +24,7 @@ All you need to do is create a new unity project, I used Universal render pipeli
 
 
 
-##Inside The Assets Folder:
+### Inside The Assets Folder:
 
  - Planet Controller - Holding prefabs for the Planets as well as the scripts, materials and shaders. The main prefab is 'Base Planet'.
 
@@ -36,6 +36,6 @@ All you need to do is create a new unity project, I used Universal render pipeli
 
 
 
-## Including Project Settings
+### Including Project Settings
 
 I included this due to their being a slight compatibility problem with AR Packages, it should load the correct set. If it doesn't work bring in AR packages released on roughly the same date.
