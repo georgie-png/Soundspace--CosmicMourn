@@ -2,7 +2,7 @@
  
 ### These are the basic tools and prefabs I created to produce the AR SoundSpace App/ Cosmic mourn experience.
 
-Check Out The Game Play Video Here : <a href="https://www.youtube.com/watch?v=bRlox-qyZBc&t=4s" target="_blank">VIDEO</a>
+Check Out The Game Play Video Here : [VIDEO](https://www.youtube.com/watch?v=bRlox-qyZBc&t=4s)
 
 Or Try It On your Device Here : 
 
