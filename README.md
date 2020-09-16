@@ -1,7 +1,7 @@
 # Soundspace
  
- ![alt text](https://github.com/georgie-png/Soundspace--CosmicMourn/blob/master/cosmic%20morn%20cover.jpg "Cosmic Mourn Cove Photo")
-
+ 
+![alt text](https://github.com/georgie-png/Soundspace--CosmicMourn/blob/master/Images/Cosmic%20Mourn.png "Cosmic Mourn Cove Photo")
  
 ### These are the basic tools and prefabs I created to produce the AR SoundSpace App/ Cosmic mourn experience.
 
@@ -11,7 +11,8 @@ Or Try It On your Device Here :
 
  - [ios](https://apps.apple.com/app/id1529811825)
  - [Andriod](https://play.google.com/store/apps/details?id=com.Lorn.SoundSpace.Four&hl=en_GB)
-
+ 
+ ![alt text](https://github.com/georgie-png/Soundspace--CosmicMourn/blob/master/Images/cosmic%20morn%20cover.jpg "Cosmic Mourn Cove Photo")
 
 ### To Get It Working In Unity!!!
 
